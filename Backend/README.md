@@ -1,7 +1,3 @@
-# Health Dashboard
-
-This repository contains all the source code of my personal health dashboard (see [https://health.maximeheckel.com](https://health.maximeheckel.com))
-I built this in order to provide a web interface for my healthkit data.
 
 
 ## Tech stack
